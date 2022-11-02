@@ -1,12 +1,12 @@
 .styleCss {
-    color: rgb(244, 10, 244);
+    color: rgb(255, 0, 0);
     font-family: Tahoma;
-    font-size: 200%;
+    font-size: 100%;
 }
 p {
-    color: rgb(0, 0, 0);
+    color: black;
     font-family: Arial;
     font-size: 120%;
-    border: 1px solid rgb(79, 90, 8);
-    padding: 10px;
+    border: 1px solid rgb(215, 245, 18);
+    padding: 5px;
 }
